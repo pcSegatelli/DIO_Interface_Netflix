@@ -1,3 +1,3 @@
 # DIO_Interface_Netflix
 
-Em construção, o Netricks
+Construção da interface do Netflix para a construção do Netricks.
